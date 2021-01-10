@@ -42,10 +42,10 @@ CREATE TABLE `employes` (
 --
 
 INSERT INTO `employes` (`id`, `typeEmp`, `first-name`, `last-name`, `age`, `dateEntrer`) VALUES
-(1, 'type8', 'Othmane', 'Hannoune', 22, '2021-01-06 '),
+(1, 'type8', 'tarek', 'azerty', 22, '2021-01-06 '),
 (4, 'type2', 'AZEERT', 'QSDFR', 33, '20002'),
 (5, 'type3', 'HAMID', 'KOZAN', 45, '14/22/2002'),
-(6, 'type4', 'tarik', 'mabroki', 33, '2020');
+(6, 'type4', 'tarik', 'moubariki', 33, '2020');
 
 -- --------------------------------------------------------
 
